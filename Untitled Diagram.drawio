@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2088" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2336" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,12 +54,6 @@
         </mxCell>
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-44" value="GWPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GCNe0r2AlvjnZA9oPG5_-43">
           <mxGeometry x="20" y="50" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GCNe0r2AlvjnZA9oPG5_-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="GCNe0r2AlvjnZA9oPG5_-43">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="480.0010934787326" as="sourcePoint" />
-            <mxPoint y="-0.710000000000008" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-15" value="Reference" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=30;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry y="124" width="700" height="376" as="geometry" />
@@ -229,6 +223,12 @@
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-54" value="omni regulons" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GCNe0r2AlvjnZA9oPG5_-45">
           <mxGeometry x="20" y="330.5" width="90" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="GCNe0r2AlvjnZA9oPG5_-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="GCNe0r2AlvjnZA9oPG5_-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="386.35109347873265" as="sourcePoint" />
+            <mxPoint y="-94.36000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="560.7110934787327" as="sourcePoint" />
@@ -366,13 +366,13 @@
           <mxGeometry x="20" y="131.5" width="90" height="29" as="geometry" />
         </mxCell>
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-118" value="PertOrg" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="GCNe0r2AlvjnZA9oPG5_-113">
-          <mxGeometry x="20" y="171.5" width="90" height="29" as="geometry" />
+          <mxGeometry x="20" y="219.5" width="90" height="29" as="geometry" />
         </mxCell>
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-214" value="error" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="GCNe0r2AlvjnZA9oPG5_-113">
-          <mxGeometry x="35" y="180.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="35" y="228.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-253" value="LINCS COMPOUNDS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="GCNe0r2AlvjnZA9oPG5_-113">
-          <mxGeometry x="20" y="211.5" width="90" height="40" as="geometry" />
+          <mxGeometry x="20" y="169.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-190" value="GWPS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GCNe0r2AlvjnZA9oPG5_-92">
           <mxGeometry x="20" y="11.5" width="90" height="29" as="geometry" />
@@ -491,26 +491,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GCNe0r2AlvjnZA9oPG5_-227" value="All this tf runs possible have an error in the report: dataset and resource table, with the wrong dataset/reference defined" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="330" width="250" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="GCNe0r2AlvjnZA9oPG5_-233" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.8_point_star" vertex="1" parent="1">
-          <mxGeometry x="884" y="-41" width="150" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="GCNe0r2AlvjnZA9oPG5_-236" value="ATENTION&lt;div&gt;&lt;b style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font color=&quot;#ff3300&quot;&gt;gwps_signatures&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="15" width="60" height="30" as="geometry" />
+        <mxCell id="GCNe0r2AlvjnZA9oPG5_-227" value="All this TF runs possible have an error in the report: dataset and resource table, with the wrong dataset/reference defined" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="80" width="740" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-240" value="&lt;span data-teams=&quot;true&quot;&gt;Focus on the runs with signature references (LINCs OE/shRNA/GWPS signatures)&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="884" y="-70" width="460" height="29" as="geometry" />
         </mxCell>
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-259" value="&lt;span style=&quot;text-align: left;&quot;&gt;error: Only reference collection containing full perturbation signatures works for CMap approaches&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="1901" y="336" width="210" height="70" as="geometry" />
+          <mxGeometry x="1901" y="384" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GCNe0r2AlvjnZA9oPG5_-118" target="GCNe0r2AlvjnZA9oPG5_-259">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-261" value="&lt;span style=&quot;text-align: left;&quot;&gt;This are full runs using signature datasets as reference&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1300" y="35" width="328" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="GCNe0r2AlvjnZA9oPG5_-267" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="720" y="-130" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GCNe0r2AlvjnZA9oPG5_-233" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.8_point_star" vertex="1" parent="GCNe0r2AlvjnZA9oPG5_-267">
+          <mxGeometry width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GCNe0r2AlvjnZA9oPG5_-236" value="ATENTION&lt;div&gt;&lt;b style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font color=&quot;#ff3300&quot;&gt;gwps_signatures&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GCNe0r2AlvjnZA9oPG5_-267">
+          <mxGeometry x="46" y="56" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
