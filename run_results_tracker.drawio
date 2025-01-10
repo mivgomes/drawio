@@ -318,7 +318,7 @@
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-207" value="GWPS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" parent="GCNe0r2AlvjnZA9oPG5_-82" vertex="1">
           <mxGeometry x="26" y="12" width="90" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="GCNe0r2AlvjnZA9oPG5_-208" value="LIINCS CRISPR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=5" parent="GCNe0r2AlvjnZA9oPG5_-82" vertex="1">
+        <mxCell id="GCNe0r2AlvjnZA9oPG5_-208" value="LIINCS CRISPR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#b85450;fontStyle=5" parent="GCNe0r2AlvjnZA9oPG5_-82" vertex="1">
           <mxGeometry x="26" y="52" width="90" height="29" as="geometry" />
         </mxCell>
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-209" value="LINCS OE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=5" parent="GCNe0r2AlvjnZA9oPG5_-82" vertex="1">
@@ -504,7 +504,7 @@
           <mxGeometry x="440" y="200" width="890" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HK5GQhYrKCOiqrEwy8Qq-1" value="This datasets were selected based on Perturbagen type: Drug" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=23;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1000" width="890" height="40" as="geometry" />
+          <mxGeometry x="480" y="920" width="890" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2Mk6vGZnSkXTLNOD6ZJB-5" value="omni network" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1990" y="770" width="90" height="29" as="geometry" />
