@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.1">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1615" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1966" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -278,6 +278,9 @@
             <mxRectangle width="130" height="104" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2Mk6vGZnSkXTLNOD6ZJB-1" value="cdsdb" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GCNe0r2AlvjnZA9oPG5_-63">
+          <mxGeometry x="419" y="50" width="90" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-71" value="Reference" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=30;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="GCNe0r2AlvjnZA9oPG5_-57" vertex="1">
           <mxGeometry y="124" width="820" height="376" as="geometry" />
         </mxCell>
@@ -426,7 +429,16 @@
           <mxGeometry x="409" y="153" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-257" value="&lt;span style=&quot;text-align: left;&quot;&gt;Alex will run ref network things little by little&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="GCNe0r2AlvjnZA9oPG5_-92" vertex="1">
-          <mxGeometry x="-221" y="236" width="723" height="29" as="geometry" />
+          <mxGeometry x="-221" y="236" width="881" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mk6vGZnSkXTLNOD6ZJB-2" value="LIINCS CRISPR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="GCNe0r2AlvjnZA9oPG5_-92">
+          <mxGeometry x="419" y="52" width="90" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mk6vGZnSkXTLNOD6ZJB-3" value="omni network" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GCNe0r2AlvjnZA9oPG5_-92">
+          <mxGeometry x="286" y="276" width="90" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mk6vGZnSkXTLNOD6ZJB-4" value="mb_network" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GCNe0r2AlvjnZA9oPG5_-92">
+          <mxGeometry x="286" y="316" width="90" height="29" as="geometry" />
         </mxCell>
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-213" value="error" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="1206" y="504.5" width="60" height="30" as="geometry" />
@@ -491,8 +503,17 @@
         <mxCell id="qPgkT_Fa0NmzYeb7g9xm-3" value="This datasets were selected based on Perturbagen type: Gene&amp;nbsp;&lt;span data-teams=&quot;true&quot;&gt;knockout&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="440" y="200" width="890" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HK5GQhYrKCOiqrEwy8Qq-1" value="This datasets were selected based on Perturbagen type: Drug" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="HK5GQhYrKCOiqrEwy8Qq-1" value="This datasets were selected based on Perturbagen type: Drug" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="440" y="1000" width="890" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mk6vGZnSkXTLNOD6ZJB-5" value="omni network" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="770" width="90" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mk6vGZnSkXTLNOD6ZJB-6" value="mb_network" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="810" width="90" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mk6vGZnSkXTLNOD6ZJB-7" value="sciplex" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="430" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
