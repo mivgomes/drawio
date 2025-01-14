@@ -329,7 +329,12 @@
             <mxRectangle width="536" height="376" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GCNe0r2AlvjnZA9oPG5_-190" value="GWPS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="GCNe0r2AlvjnZA9oPG5_-92" vertex="1">
+        <mxCell id="NzRuzEU1w5xEoadkJn8W-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GCNe0r2AlvjnZA9oPG5_-92" source="GCNe0r2AlvjnZA9oPG5_-190">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="129" y="-174" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GCNe0r2AlvjnZA9oPG5_-190" value="GWPS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;" parent="GCNe0r2AlvjnZA9oPG5_-92" vertex="1">
           <mxGeometry x="20" y="11.5" width="90" height="29" as="geometry" />
         </mxCell>
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-191" value="LINCS shRNA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;strokeColor=#d6b656;fontStyle=0" parent="GCNe0r2AlvjnZA9oPG5_-92" vertex="1">
@@ -373,16 +378,21 @@
             <mxRectangle width="130" height="104" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NzRuzEU1w5xEoadkJn8W-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GCNe0r2AlvjnZA9oPG5_-68" source="GCNe0r2AlvjnZA9oPG5_-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="144" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-69" value="GWPS" style="rounded=0;whiteSpace=wrap;html=1;" parent="GCNe0r2AlvjnZA9oPG5_-68" vertex="1">
           <mxGeometry x="20" y="50" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GCNe0r2AlvjnZA9oPG5_-115" value="LIINCS CRISPR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="GCNe0r2AlvjnZA9oPG5_-92" vertex="1">
+        <mxCell id="GCNe0r2AlvjnZA9oPG5_-115" value="LIINCS CRISPR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;" parent="GCNe0r2AlvjnZA9oPG5_-92" vertex="1">
           <mxGeometry x="286" y="51.5" width="90" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="GCNe0r2AlvjnZA9oPG5_-116" value="LINCS OE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="GCNe0r2AlvjnZA9oPG5_-92" vertex="1">
+        <mxCell id="GCNe0r2AlvjnZA9oPG5_-116" value="LINCS OE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;" parent="GCNe0r2AlvjnZA9oPG5_-92" vertex="1">
           <mxGeometry x="286" y="91.5" width="90" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="GCNe0r2AlvjnZA9oPG5_-117" value="LINCS shRNA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="GCNe0r2AlvjnZA9oPG5_-92" vertex="1">
+        <mxCell id="GCNe0r2AlvjnZA9oPG5_-117" value="LINCS shRNA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;" parent="GCNe0r2AlvjnZA9oPG5_-92" vertex="1">
           <mxGeometry x="286" y="131.5" width="90" height="29" as="geometry" />
         </mxCell>
         <mxCell id="GCNe0r2AlvjnZA9oPG5_-118" value="PertOrg" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="GCNe0r2AlvjnZA9oPG5_-92" vertex="1">
@@ -488,6 +498,20 @@
         </mxCell>
         <mxCell id="NzRuzEU1w5xEoadkJn8W-1" value="~/abc_framework/projects/10_causalregs/runs&lt;br&gt;/data/share/ABC/10_CausalRegulators/results" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1400" y="200" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NzRuzEU1w5xEoadkJn8W-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: -webkit-left; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;fgsea and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: -webkit-left; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;mdt failed&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1475" y="268" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NzRuzEU1w5xEoadkJn8W-5" value="&lt;div style=&quot;text-align: -webkit-left;&quot;&gt;&lt;font face=&quot;Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;all decoupleR runs failed&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1745" y="250" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NzRuzEU1w5xEoadkJn8W-7" value="this run is saving the results in my personal folder and not under the shared" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="305" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NzRuzEU1w5xEoadkJn8W-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.439;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GCNe0r2AlvjnZA9oPG5_-208" target="NzRuzEU1w5xEoadkJn8W-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
